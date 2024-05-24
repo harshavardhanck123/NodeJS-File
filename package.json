@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-filesystem",
+  "version": "1.0.0",
+  "description": "Web developer task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshavardhanck123/NodeJS-File.git"
+  },
+  "author": "Harshavardhan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
